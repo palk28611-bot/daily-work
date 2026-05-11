@@ -10,7 +10,7 @@ int main()
 	printf("enter rate: ");
 	scanf("%f", &r);
 	
-	printf("enter tim: ");
+	printf("enter time: ");
 	scanf("%f", &t);
 	
 	si = (p * r * t)/ 100;
